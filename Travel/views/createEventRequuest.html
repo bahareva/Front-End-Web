@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Request form</title>
+
+    <link rel="stylesheet" href="createEventRequuest.css">
+</head>
+<body>
+      <div class="full-screen-container">
+        <video id="video" poster="images/sea.jpg" autoplay muted loop>
+            <source src="images/video.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+          </video>
+
+          <form id="wrapper" class="wrapper">
+            <div class="title">
+              
+            Travel Request
+            </div>
+            <div class="form">
+               <div class="inputfield">
+                  <input type="text" class="input" id="place" name="place" placeholder="Where do you want to go?">
+               </div>  
+
+               <div class="inputfield">
+                <input type="date" class="input" id="date" name="date" placeholder="When do you want to go?">
+             </div>
+
+             <div class="inputfield">
+              <input type="text" class="input" id="days" name="days" placeholder="For how many nights?">
+              </div> 
+
+                <div class="inputfield">
+                  <input type="text" class="input" id="email" name="email" placeholder="E-mail address">
+               </div>
+               
+              <div class="inputfield">
+                <input type="submit" value="Submit" id="submit-btn" class="btn">
+              </div>
+            </div>
+        </form>	
+    
+      </div>
+    
+    <script src="index.js" defer></script>
+    <script src="navMenu.js"></script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+ [
+   {
+      "image": "url(images/philippines.jpg)",
+      "title": "Philippines",
+      "date": "February 22, 2021",
+      "description": "Considered the largest city in the Philippines (by size) and capital city of the Davao region, Davao City is a great getaway. Popular destinations include Eden Nature Park (a mountain resort perfect for relaxation), Malagos Garden Resort (a 12-hectare nature theme park that features the first chocolate museum in the Philippines.",
+      "price": "$999"
+    },
+    {
+      "image": "url(images/grand_canyon.jpg)",
+      "title": "Grand Canyon",
+      "date": "February 31, 2021",
+      "description": "Measuring roughly 277 miles long, 18 miles wide and a mile deep, the Grand Canyon offers plenty of outdoor activities for everyone from day-trippers to adventure junkies. Hike along the national park's popular Rim and Bright Angel trails. ",
+      "price": "$1299"
+    },
+    {
+      "image": "url(images/Machu_picchu.jpg)",
+      "title": "Machu Picchu",
+      "date": "March 15, 2021",
+      "description": "A visit to the Lost City of the Incas is not for the faint of heart, but it is often described as life-changing. While the four-day hike along the Inca Trail is challenging, arriving at the Peruvian site during sunrise is well worth the effort, according to past travelers. If you're not up for the trek, you can also hop on a tourist train to the mountain base for an easier route to the top.",
+      "price": "$1000"
+    },
+    {
+      "image": "url(images/Rio_de_Janeiro.jpg)",
+      "title": "Rio de Janeiro",
+      "date": "June 16, 2021",
+      "description": "Christ the Redeemer and the shores of Copacabana and Ipanema beaches are only some reasons why you should plan a trip to Rio. In the Marvelous City, you can revel in the sounds of samba in the Lapa neighborhood after strolling along the cobblestone streets of Santa Teresa. ",
+      "price": "$3000"
+    },
+    {
+      "image": "url(images/Niagara_Falls.jpg)",
+      "title": "Niagara Falls",
+      "date": "July 10, 2021",
+      "description": "A spectacular cluster of three waterfalls, Niagara Falls is a must-see if you want a glimpse of some of North America's best sites. You can experience the falls from below on the famous Maid of the Mist boat tour or marvel at the scene from above in the Skylon Tower. There are also miles of hiking trails around the falls that provide breathtaking views.",
+      "price": "$1299"
+    },
+    {
+      "image": "url(images/Great_Barrier_Reef.jpg)",
+      "title": "Great Barrier Reef",
+      "date": "August 21, 2021",
+      "description": "The globe's largest coral reef system – and one of the original Seven Natural Wonders of the World – touts incredible scenery, whether you view it underwater, from the air or by boat. At Australia's Great Barrier Reef, you'll find more than 600 islands and 1,500-plus species of fish.",
+      "price": "$1499"
+    }
+  ]
+
